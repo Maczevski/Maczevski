@@ -32,9 +32,9 @@
     }
   </style>
   
-  <rect width="100%" height="100%" fill="#f5f5f5" />
+  <rect width="100%" height="100%" fill="#f5f5f5" /> <!-- Fundo claro, padrão GitHub -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="github-text typing-animation">
-    Emilly Maczevski
+    Allyson Ramos
   </text>
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="cursor">|</text>
 </svg>
