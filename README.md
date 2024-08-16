@@ -12,7 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
-<br>
+&nbsp;
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maczevski&layout=compact&theme=dark)
 
 
